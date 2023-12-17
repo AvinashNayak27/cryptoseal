@@ -3,6 +3,11 @@
 #### Overview
 CryptoSeal is a blockchain-based game where players can mint unique NFTs, enhance their attributes, and use them in games to win ZAMA tokens. This guide will help you navigate the CryptoSeal DApp.
 
+#### Helpful Resources
+- **Demo Video**: For a visual guide on how to use CryptoSeal, watch our [demo video on YouTube](https://www.youtube.com/watch?v=OBtFgSpLSsY).
+- **Play the Game**: Experience CryptoSeal firsthand by visiting the [live game here](https://cryptoseal.vercel.app/).
+
+
 #### Getting Started
 1. **Connect Wallet**: To interact with the DApp, connect your Ethereum wallet (such as MetaMask) by clicking the 'Connect Wallet' button.(ZAMA DEVNET)
 
